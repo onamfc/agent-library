@@ -63,6 +63,33 @@
       "path": "technical-writer/prompt.md",
       "context_window": "medium",
       "tags": ["documentation", "writing", "readme", "api-docs", "guides"]
+    },
+    {
+      "id": "security-analyst",
+      "name": "Security Analyst",
+      "category": "analysis",
+      "description": "Vulnerability assessment and security review",
+      "path": "security-analyst/prompt.md",
+      "context_window": "large",
+      "tags": ["security", "vulnerabilities", "owasp", "audit", "compliance", "appsec"]
+    },
+    {
+      "id": "frontend-developer",
+      "name": "Frontend Developer",
+      "category": "development",
+      "description": "Responsive, accessible web UI development",
+      "path": "frontend-developer/prompt.md",
+      "context_window": "large",
+      "tags": ["frontend", "react", "vue", "typescript", "css", "accessibility", "ui"]
+    },
+    {
+      "id": "testing-specialist",
+      "name": "Testing Specialist",
+      "category": "development",
+      "description": "Unit, integration, and E2E testing",
+      "path": "testing-specialist/prompt.md",
+      "context_window": "large",
+      "tags": ["testing", "unit-tests", "integration", "e2e", "tdd", "coverage", "mocking"]
     }
   ]
 }
